@@ -6,7 +6,7 @@
 ### Agent Based Model
 > For this assignment I have modeled sheep on a hillside as they are harassed by a sheep dog.
 > **The sheep will:**
-> **1. Eat their environment**
+> 1. **Eat their environment**
 > - As the sheep graze the grid of integer values that is used to create a raster image of the hillside from the top down is modified as the pixel values change.
 > - The sheep become visually larger as they feed until they reach a fullness threshold and defecate, becoming smaller again.
 > **2. Flock together**
