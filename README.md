@@ -25,6 +25,7 @@
 > - The sheep dog scans the area and finds the nearest sheep and chases after it.
 > 
 > **The model ends when half of the initial number of sheep have been eaten or have died of old age or starvation.**
+> 
 > **Extras:**
 > 1. The sheep's initial locations are taken from a webpage that the model scrapes.
 > 2. When the model has finished running it outputs a text file with how many iterations it ran for.
