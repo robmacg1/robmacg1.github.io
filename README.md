@@ -5,7 +5,8 @@
 
 ### Agent Based Model
 > For this assignment I have modeled sheep on a hillside as they are harassed by a sheep dog.
-> The model can be accessed from [this github repository](https://github.com/robmacg1/model1) and all the information to run it can be found in the readme there.
+> 
+> ####The model can be accessed from [this github repository](https://github.com/robmacg1/model1) and all the information to run it can be found in the readme there.
 > 
 > **The sheep will:**
 > 1. **Eat their environment**
