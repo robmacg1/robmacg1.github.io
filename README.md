@@ -7,5 +7,16 @@
 > For this assignment I have modeled sheep on a hillside as they are harassed by a sheep dog.
 > The sheep will:
 > 1. Eat their environment
-> -
+> - As the sheep graze the grid of integer values that is used to create a raster image of the hillside from the top down is modified as the pixel values change.
+> - The sheep become visually larger as they feed until they reach a fullness threshold and defecate, becoming smaller again.
+> 2. Flock together
+> - The sheep modify their behaviour depending on whether other sheep are nearby, becoming less likely to move and to move shorter distances.
+> 3. Share with each other
+> - These sheep are able to somehow share their stores of food with each other when nearby if they are fuller than those nearby
+> 4. Die
+> - After a few bowel movements the sheep no longer function
+> - If their fullness drops to zero they die!
+> 5. Run from the sheep dog/wolf
+> - When the sheep dog gets too close the sheep drop what they are doing and run in the opposite direction.
+> - The sheep dog will take bites out of their stores when it gets close and if their fullness drops to zero they die!
 ![](/animation.gif "Agent Based Model")
