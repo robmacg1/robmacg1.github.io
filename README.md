@@ -5,6 +5,7 @@
 
 ### Agent Based Model
 > For this assignment I have modeled sheep on a hillside as they are harassed by a sheep dog.
+> 
 > **The sheep will:**
 > 1. **Eat their environment**
 > - As the sheep graze the grid of integer values that is used to create a raster image of the hillside from the top down is modified as the pixel values change.
@@ -20,6 +21,7 @@
 > - When the sheep dog gets too close the sheep drop what they are doing and run in the opposite direction.
 > - The sheep dog will take bites out of their stores when it gets close and if their fullness drops to zero they die!
 > - Running causes the sheep to lose fullness and they can't eat whilst running so if they can't get away from the sheep dog in time... they die!
+> 
 > **The sheep dog will:**
 > 1. **Chase the nearest sheep**
 > - The sheep dog scans the area and finds the nearest sheep and chases after it.
