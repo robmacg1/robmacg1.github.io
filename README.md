@@ -7,7 +7,7 @@
 > For this assignment I have modeled sheep on a hillside as they are harassed by a sheep dog.
 > 
 > #### The model can be accessed from [this github repository](https://github.com/robmacg1/model1) and all the information to run it can be found in the readme there.
-> 
+>
 > **The sheep will:**
 > 1. **Eat their environment**
 > - As the sheep graze the grid of integer values that is used to create a raster image of the hillside from the top down is modified as the pixel values change.
